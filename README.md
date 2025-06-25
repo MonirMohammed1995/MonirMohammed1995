@@ -17,7 +17,7 @@
 - 🤝 Looking for help with **Profast Project**
 - 💬 Ask me about **React | Node.js | Tailwind CSS | MongoDB | Firebase**
 - 📫 Reach me at **monirmdnayemsaju42@gmail.com**
-- 🌍 Location: **Dhaka, Bangladesh**
+- 🌍 Location: **Sylhet, Bangladesh**
 
 ---
 
