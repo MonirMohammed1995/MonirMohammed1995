@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MonirMohammed1995/MonirMohammed/blob/main/gradient-dark-blue-futuristic-digital-grid-background.jpg" alt="Monir Mohammed Nayem Banner"/>
+  <img src="https://github.com/MonirMohammed1995/MonirMohammed1995/blob/main/git.png" alt="Monir Mohammed Nayem Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Monir Mohammed Nayem</h1>
