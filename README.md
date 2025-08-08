@@ -1,93 +1,98 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/MonirMohammed1995/MonirMohammed1995/blob/main/git.png" alt="Monir Mohammed Nayem Banner"/>
+  <img src="https://github.com/MonirMohammed1995/MonirMohammed1995/blob/main/git.png" alt="Monir Mohammed Nayem Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Monir Mohammed Nayem</h1>
-<h3 align="center">A Passionate Full Stack Web Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">💻 Full Stack Web Developer | MERN Stack Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=monirmohammed1995&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=monirmohammed1995&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-- 🔭 Currently working on [Online Tutor Booking System](https://onlinetutor-booking-system.netlify.app/)
-- 🌱 Learning **Next.js | Express.js | JWT**
-- 👯 Open to collaborate on [Doctor Appointment System](https://b11-a8-cat1.netlify.app/)
-- 🤝 Looking for help with **Profast Project**
-- 💬 Ask me about **React | Node.js | Tailwind CSS | MongoDB | Firebase**
-- 📫 Reach me at **monirmdnayemsaju42@gmail.com**
-- 🌍 Location: **Sylhet, Bangladesh**
+## 🚀 About Me
+I’m a results-driven **Full Stack Web Developer** focused on building performant, maintainable, and user-centered web applications using the MERN stack. I enjoy designing scalable backend services and crafting clean, accessible frontends.
+
+- 🔭 **Currently working on:** [Online Tutor Booking System](https://onlinetutor-booking-system.netlify.app/)  
+- 🌱 **Learning:** Next.js, Express.js, JWT  
+- 👯 **Open to collaborate on:** [Doctor Appointment System](https://b11-a8-cat1.netlify.app/)  
+- 💬 **Ask me about:** React, Node.js, Tailwind CSS, MongoDB, Firebase  
+- 📫 **Email:** monirmdnayemsaju42@gmail.com  
+- 🌍 **Location:** Sylhet, Bangladesh
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+## 🌐 Connect
+<p align="center">
   <a href="https://www.linkedin.com/in/monir-mohammed-nayem-b17915169/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.facebook.com/monirmdnayemsaju42" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+    <img src="https://skillicons.dev/icons?i=facebook" height="36" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:monirmdnayemsaju42@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MonirMohammed1995" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,mysql,html,css,c" alt="tech stack"/>
 </p>
+
+**Core:** React, Node.js, Express, MongoDB, Tailwind CSS  
+**Other:** Firebase (auth), Stripe (payments), JWT, Docker (basic), Netlify / Vercel for deployment
 
 ---
 
-<h3 align="center">🏆 GitHub Stats</h3>
+## 📌 Featured Projects
+
+### 🎓 Scholarship Management System
+**Description:** A multi-role MERN application for managing scholarship listings and student applications.  
+**Highlights:** role-based dashboards (user, moderator, admin), secure JWT authentication, application tracking, moderator feedback, Stripe-powered payments, responsive UI, and admin user management.  
+**Live / Repo:** *(Add links below)*
+
+### 🎓 Online Tutor Booking System
+**Description:** Find and book tutors by category, rate & review tutors, secure bookings with authentication and booking management.  
+**Live:** https://onlinetutor-booking-system.netlify.app/  
+**Repo:** *(Add repo link)*
+
+### 🩺 Doctor Appointment System
+**Description:** Appointment booking system with user auth and scheduling features.  
+**Live:** https://b11-a8-cat1.netlify.app/  
+**Repo:** *(Add repo link)*
+
+### 🌱 Plant Care Tracker
+**Description:** Plant management app with reminders, personalized dashboards, and CRUD for plant care tasks.  
+**Live / Repo:** *(Add links if available)*
+
+> ⚙️ *For each project, include a short README inside the project repo describing architecture, setup, environment variables, and API endpoints.*
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monirmohammed1995&theme=onedark" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=monirmohammed1995&theme=onedark&no-frame=true&margin-w=10" alt="Trophies"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monirmohammed1995&show_icons=true&theme=dark" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monirmohammed1995&show_icons=true&theme=dark&hide_border=true" height="140" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirmohammed1995&layout=compact&theme=dark&hide_border=true" height="140" alt="Top Languages"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirmohammed1995&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monirmohammed1995&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monirmohammed1995&theme=dark" alt="Streak Stats"/>
-</p>
+
+---
