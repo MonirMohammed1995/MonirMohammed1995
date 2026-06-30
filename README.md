@@ -3,96 +3,109 @@
   <img src="https://github.com/MonirMohammed1995/MonirMohammed1995/blob/main/git.png" alt="Monir Mohammed Nayem Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Monir Mohammed Nayem</h1>
-<h3 align="center">💻 Full Stack Web Developer | MERN Stack Specialist</h3>
+<h1 align="center">Monir Mohammed Nayem</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=monirmohammed1995&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <strong>Full Stack Web Developer</strong> • <strong>MERN Stack Engineer</strong> • <strong>Software Engineer</strong>
 </p>
 
----
-
-## 🚀 About Me
-I’m a results-driven **Full Stack Web Developer** focused on building performant, maintainable, and user-centered web applications using the MERN stack. I enjoy designing scalable backend services and crafting clean, accessible frontends.
-
-- 🔭 **Currently working on:** [Scholarship Management System](https://scholarship-managment-sys.netlify.app/), [Online Tutor Booking System](https://onlinetutor-booking-system.netlify.app/), [Ptant Care Tracker](https://assignment10-polished-plantcare.netlify.app/)
-- 🌱 **Learning:** Next.js, Express.js, JWT  
-- 👯 **Open to collaborate on:** [Doctor Appointment System](https://b11-a8-cat1.netlify.app/)  
-- 💬 **Ask me about:** React, Node.js, Tailwind CSS, MongoDB, Firebase  
-- 📫 **Email:** monirmdnayemsaju42@gmail.com  
-- 🌍 **Location:** Sylhet, Bangladesh
-
----
-
-## 🌐 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/monir-mohammed-nayem-b17915169/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
+  Building scalable, secure, and user-focused web applications.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MonirMohammed1995&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<h3 align="center">Connect with Me</h3>
+
+<p align="center">
+  <a href="https://github.com/MonirMohammed1995">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/monirmdnayemsaju42" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="36" alt="Facebook"/>
+  <a href="https://www.linkedin.com/in/monir-mohammed-nayem-b17915169/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:monirmdnayemsaju42@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email"/>
+  <a href="mailto:monirmdnayemsaju42@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/MonirMohammed1995" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub"/>
+  <a href="https://www.facebook.com/monirmdnayemsaju42">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook" />
   </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,express,mongodb,tailwind,firebase,git,mysql,html,css,c" alt="tech stack"/>
-</p>
+## About Me
 
-**Core:** React, Node.js, Express, MongoDB, Tailwind CSS  
-**Other:** Firebase (auth), Stripe (payments), JWT, Docker (basic), Netlify / Vercel for deployment
-
----
-
-## 📌 Featured Projects
-
-### 🎓 Scholarship Management System
-**Description:** A multi-role MERN application for managing scholarship listings and student applications.  
-**Highlights:** role-based dashboards (user, moderator, admin), secure JWT authentication, application tracking, moderator feedback, Stripe-powered payments, responsive UI, and admin user management.  
-**Live / Repo:** *(Add links below)*
-
-### 🎓 Online Tutor Booking System
-**Description:** Find and book tutors by category, rate & review tutors, secure bookings with authentication and booking management.  
-**Live:** https://onlinetutor-booking-system.netlify.app/  
-**Repo:** *(Add repo link)*
-
-### 🩺 Doctor Appointment System
-**Description:** Appointment booking system with user auth and scheduling features.  
-**Live:** https://b11-a8-cat1.netlify.app/  
-**Repo:** *(Add repo link)*
-
-### 🌱 Plant Care Tracker
-**Description:** Plant management app with reminders, personalized dashboards, and CRUD for plant care tasks.  
-**Live / Repo:** *(Add links if available)*
-
-> ⚙️ *For each project, include a short README inside the project repo describing architecture, setup, environment variables, and API endpoints.*
+- Full Stack Web Developer specializing in the **MERN Stack**
+- Passionate about building scalable and maintainable web applications
+- Focused on clean architecture, performance optimization, and modern UI/UX
+- Currently learning **Next.js**, **TypeScript**, **Docker**, and **System Design**
+- Based in **Sylhet, Bangladesh**
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=monirmohammed1995&theme=onedark&no-frame=true&margin-w=10" alt="Trophies"/>
-</p>
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monirmohammed1995&show_icons=true&theme=dark&hide_border=true" height="140" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monirmohammed1995&layout=compact&theme=dark&hide_border=true" height="140" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monirmohammed1995&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,html,css,git,github,docker,vscode,c,python" />
 </p>
 
 ---
+
+## Featured Projects
+
+| Project | Description | Live Demo | Repository |
+|----------|------------|-----------|------------|
+| **Scholarship Management System** | Multi-role MERN platform with JWT authentication, Stripe payments, dashboards, and scholarship management. | [Live](https://scholarship-managment-sys.netlify.app/) | Repository |
+| **Online Tutor Booking System** | Tutor booking platform with authentication, booking management, reviews, and responsive design. | [Live](https://onlinetutor-booking-system.netlify.app/) | Repository |
+| **Doctor Appointment System** | Online appointment scheduling platform with secure authentication and booking workflow. | [Live](https://b11-a8-cat1.netlify.app/) | Repository |
+| **Plant Care Tracker** | Plant management application featuring reminders, dashboard analytics, and CRUD operations. | [Live](https://assignment10-polished-plantcare.netlify.app/) | Repository |
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MonirMohammed1995&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonirMohammed1995&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=MonirMohammed1995&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MonirMohammed1995&theme=github-compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MonirMohammed1995&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+</p>
+
+---
+
+## Current Focus
+
+- Next.js
+- TypeScript
+- REST API Development
+- Authentication & Security
+- Performance Optimization
+- Clean Architecture
+- Scalable Backend Systems
+
+---
+
+## Contact
+
+- **Email:** monirmdnayemsaju42@gmail.com
+- **Location:** Sylhet, Bangladesh
+
+---
+
+<p align="center">
+  <i>Building software with clean code, scalable architecture, and exceptional user experience.</i>
+</p>
+```
