@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/MonirMohammed1995/MonirMohammed1995/blob/main/git.png" alt="Monir Mohammed Nayem Banner" width="100%" />
+  <img src="https://github.com/MonirMohammed1995/MonirMohammed1995/blob/main/Banner.jpg" alt="Monir Mohammed Nayem Banner" width="100%" />
 </p>
 
 <h1 align="center">Monir Mohammed Nayem</h1>
